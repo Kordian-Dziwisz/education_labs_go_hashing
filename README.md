@@ -1,6 +1,8 @@
 # education_labs_go_hashing
 ## hashing
 
+### (check out the project info)[https://github.com/users/Kordian-Dziwisz/projects/12]
+
 Instrukcje
 Zadanie to polega na obliczeniu dwóch liczb zależnych od Twojego imienia i nazwiska, które dość prosto możesz jednoznacznie wyznaczyć. Trzeba jednak wykonać sporo obliczeń na liczbach naprawdę astronomicznie wielkich. Jak się zatem do tego zabrać?
  
